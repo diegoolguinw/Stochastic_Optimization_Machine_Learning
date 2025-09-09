@@ -16,6 +16,6 @@ Material for the course MA5608 Stochastic Optimization and Machine Learning from
 
 * Session 2: Regularization and Convolutional Neural Networks. **[ [Google Colab](https://colab.research.google.com/drive/1kMXCkdmcHpR_P88owWki2cqndFtCzq2h?usp=sharing) ] [ [Notebook](https://github.com/diegoolguinw/MA5608_stochastic_optimization_machine_learning/blob/main/notebooks/Session2.ipynb) ] [ [Slides](https://github.com/diegoolguinw/MA5608_stochastic_optimization_machine_learning/blob/main/slides/Session2.pdf) ]**
   - Problems in Neural Networks.
-  - Regularization: L1, L2 and droput.
+  - Regularization: L1, L2 and dropout.
   - Problems with structures as images.
   - Convolutional Neural Networks, with application to medical images.
